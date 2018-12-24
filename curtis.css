@@ -1,0 +1,17 @@
+body {
+	background-image: url("src/snow.gif");
+	background-repeat: all;
+}
+
+h1 {
+	font-family: Verdana;
+}
+
+#container {
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+p {
+	color: white;
+}
